@@ -1,0 +1,17 @@
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.deps.json
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.dll
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\obj\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.csprojAssemblyReference.cache
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\obj\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.csproj.CoreCompileInputs.cache
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\obj\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.AssemblyInfoInputs.cache
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\obj\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.AssemblyInfo.cs
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.runtimeconfig.json
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.runtimeconfig.dev.json
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.pdb
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\Senai.CodeTur.Dominio.dll
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\Senai.CodeTur.Dominio.pdb
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\obj\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.csproj.CopyComplete
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\obj\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.dll
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\obj\Debug\netcoreapp2.2\Senai.CodeTur.Infradata.pdb
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.Infradata\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll

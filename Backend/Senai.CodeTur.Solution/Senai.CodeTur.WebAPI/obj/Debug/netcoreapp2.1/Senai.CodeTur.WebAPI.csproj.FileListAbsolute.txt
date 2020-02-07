@@ -1,0 +1,17 @@
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.deps.json
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.runtimeconfig.json
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.runtimeconfig.dev.json
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.dll
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.csprojAssemblyReference.cache
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.RazorAssemblyInfo.cache
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.RazorAssemblyInfo.cs
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.AssemblyInfoInputs.cache
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.AssemblyInfo.cs
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\bin\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.pdb
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.dll
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\obj\Debug\netcoreapp2.1\Senai.CodeTur.WebAPI.pdb
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\51729160832\source\repos\Backend\Senai.CodeTur.Solution\Senai.CodeTur.WebAPI\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
