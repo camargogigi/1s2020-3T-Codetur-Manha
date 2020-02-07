@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Senai.CodeTur.Dominio\\bin",
+    "\\Senai.CodeTur.Infradata\\Migrations",
+    "\\Senai.CodeTur.Servico\\ViewModels",
+    "\\Senai.CodeTur.Servico\\ViewModels\\Conta",
+    "\\Senai.CodeTur.Servico\\ViewModels\\Pacote",
+    "\\Senai.CodeTur.Testes\\Repositorios",
+    "\\Senai.CodeTur.WebAPI\\Controllers",
+    "\\Senai.CodeTur.WebAPI\\Properties",
+    "\\Senai.CodeTur.WebAPI\\wwwroot"
+  ],
+  "SelectedNode": "\\Senai.CodeTur.Solution.sln",
+  "PreviewInSolutionExplorer": false
+}

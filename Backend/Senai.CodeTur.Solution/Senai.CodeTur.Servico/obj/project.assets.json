@@ -7059,11 +7059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\51729160832\\source\\repos\\Backend\\Senai.CodeTur.Solution\\Senai.CodeTur.Servico\\Senai.CodeTur.Servico.csproj",
+      "projectUniqueName": "C:\\Users\\51729160832\\Documents\\1s2020-3T-Codetur-Manha\\Backend\\Senai.CodeTur.Solution\\Senai.CodeTur.Servico\\Senai.CodeTur.Servico.csproj",
       "projectName": "Senai.CodeTur.Servico",
-      "projectPath": "C:\\Users\\51729160832\\source\\repos\\Backend\\Senai.CodeTur.Solution\\Senai.CodeTur.Servico\\Senai.CodeTur.Servico.csproj",
+      "projectPath": "C:\\Users\\51729160832\\Documents\\1s2020-3T-Codetur-Manha\\Backend\\Senai.CodeTur.Solution\\Senai.CodeTur.Servico\\Senai.CodeTur.Servico.csproj",
       "packagesPath": "C:\\Users\\51729160832\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\51729160832\\source\\repos\\Backend\\Senai.CodeTur.Solution\\Senai.CodeTur.Servico\\obj\\",
+      "outputPath": "C:\\Users\\51729160832\\Documents\\1s2020-3T-Codetur-Manha\\Backend\\Senai.CodeTur.Solution\\Senai.CodeTur.Servico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
